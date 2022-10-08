@@ -7,11 +7,11 @@
 ### Reach out to me:
 
 
-LinkedIn:[<img width="25" align="left" background-color="red" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img width="25" align="left" background-color="red" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 <br/>
-Twitter:[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
+[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 <br/>
-Instagram:[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
+[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
 
 
 [linkedin]: https://www.linkedin.com/in/ali-can-dogan46/
