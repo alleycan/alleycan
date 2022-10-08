@@ -8,7 +8,7 @@
 ### Reach out to me:
 
 <br/><br/>
-[<img width="25" align="left" color="red" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img width="25" align="left" background-color="red" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 
