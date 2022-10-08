@@ -18,6 +18,6 @@
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
 
 
-[linkedlin]: https://www.linkedin.com/in/ali-can-dogan46/
+[linkedin]: https://www.linkedin.com/in/ali-can-dogan46/
 [twitter]: https://twitter.com/can_dgn46
 [instagram]: https://www.instagram.com/can.dgn.46/
