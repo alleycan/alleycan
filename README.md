@@ -1,7 +1,6 @@
 <img  src=https://giphy.com/embed/mCRJDo24UvJMA align="right "widht="400" height="350">
 ## Hi there 👋
-
-### Software Engineer
+### My name is Ali Can and I'am a Software Engineer
 
 
 - 🔭 I’m currently working on Web Development
