@@ -10,13 +10,14 @@
 
 
 ###Reach out to me
-[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedln.svg" />] [linkedln]
+<br/><br/>
+[<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />] [linkedin]
 
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 
 [<img width="25" align="left" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][instagram]
 
 
-[linkedln] : https://www.linkedin.com/in/ali-can-dogan46/
+[linkedlin] : https://www.linkedin.com/in/ali-can-dogan46/
 [twitter] : https://twitter.com/can_dgn46
 [instagram] : https://www.instagram.com/can.dgn.46/
