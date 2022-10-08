@@ -18,7 +18,7 @@
 [twitter]: https://twitter.com/can_dgn46
 [instagram]: https://www.instagram.com/can.dgn.46/
 
-<br/>
+
 ### Technologies I Use:
-<br/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="15" heigth="15">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="15" heigth="15"/>
