@@ -35,26 +35,6 @@
 <br />
 
 
-## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=alleycan&theme=dark" >
-
-
-<br />
-<br />
-
-
-## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleycan&layout=compact&theme=dark" >
-
-
-
-
-
-
-
-
-
-
 
 
 
