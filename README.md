@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Can</h1>
-<h3 align="center">Software Engineer | Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" widht="500" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding">
 
 - 🔭 I’m currently working on [Child Monitoring System App](https://github.com/doganalican46/Child-Monitoring-System-App)
