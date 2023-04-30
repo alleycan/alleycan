@@ -3,11 +3,9 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" widht="500" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding">
 
-- 🔭 I’m currently working on [Child Monitoring System App](https://github.com/doganalican46/Child-Monitoring-System-App)
+- 🔭 I’m currently working on [Hospital Management System](https://github.com/doganalican46/Child-Monitoring-System-App)
 
-- 🌱 I’m currently learning **Android Development**
-
-- 👨‍💻 All of my projects are available at [www.doganalican.com](www.doganalican.com)
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **doganalican46@hotmail.com**
 
