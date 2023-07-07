@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **doganalican46@hotmail.com**
 
-- My website: doganalican46.dev
+- My website: www.doganalican46.dev
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
