@@ -3,9 +3,8 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" widht="500" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding">
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/doganalican46/Child-Monitoring-System-App)
-
-- 🌱 I’m currently learning **Web Development**
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **doganalican46@hotmail.com**
 
