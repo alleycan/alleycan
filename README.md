@@ -3,8 +3,8 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" widht="500" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="Coding">
 
-- 🔭 I’m currently working on TRAVELSAL PROJECT [https://github.com/doganalican46/TravelsalCoreProje]
-- 🌱 I’m currently learning **ASP.NET**
+- 🔭 I’m currently working on To Do app on Android
+- 🌱 I’m currently learning Android Programming with Flutter
 
 - 📫 How to reach me **doganalican46@hotmail.com**
 
